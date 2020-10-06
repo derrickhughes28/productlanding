@@ -38,7 +38,7 @@ iframe {
 }
 
 form {
-    display:block;
+    display: flexbox;
     align-content: center;
     margin: 1 auto;
 }
